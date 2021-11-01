@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "5f05e5b6eba2840e98643aa0"
+  },
+  "kuriri": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "pun_naziv": "AgroTeam doo",
+  "skr_naziv": "agro",
+  "lozinka": "Agro123",
+  "datum": "15/02/2003",
+  "mesto": "Novi Sad",
+  "email": "agro@mail.com",
+  "approved": 1,
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "5f05e5dfeba2840e98643aa1"
+  },
+  "kuriri": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "pun_naziv": "PKB AD",
+  "skr_naziv": "pkb",
+  "lozinka": "Pkbad123",
+  "datum": "22/08/1948",
+  "mesto": "Pancevo",
+  "email": "pkb@mail.com",
+  "approved": 1,
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "5f05e617eba2840e98643aa2"
+  },
+  "kuriri": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "pun_naziv": "PP Apoteka Ivancic i sinovi",
+  "skr_naziv": "ivancic",
+  "lozinka": "Ivancic123",
+  "datum": "05/06/2007",
+  "mesto": "Nis",
+  "email": "ivancic@mail.com",
+  "approved": 1,
+  "__v": 8
+},{
+  "_id": {
+    "$oid": "5f05e694eba2840e98643aa4"
+  },
+  "kuriri": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "pun_naziv": "Zadruga Arilje",
+  "skr_naziv": "zadruga",
+  "lozinka": "Zadruga123",
+  "datum": "01/03/2020",
+  "mesto": "Arilje",
+  "email": "zadruga@mail.com",
+  "approved": 0,
+  "__v": 0
+}]

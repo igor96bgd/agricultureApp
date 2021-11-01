@@ -1,0 +1,418 @@
+[{
+  "_id": {
+    "$oid": "5f06439beba2840e98643abb"
+  },
+  "proizvodi": [
+    {
+      "_id": {
+        "$oid": "5f05fa79eba2840e98643ab0"
+      },
+      "naziv": "Breskva",
+      "proizvodjac": "ivancic",
+      "kolicina": 5,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 120,
+      "tip": "sadnica",
+      "dani": 12,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5f05fa93eba2840e98643ab1"
+      },
+      "naziv": "Malina",
+      "proizvodjac": "ivancic",
+      "kolicina": 5,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 400,
+      "tip": "sadnica",
+      "dani": 14,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5f05fad2eba2840e98643ab4"
+      },
+      "naziv": "Borovnica",
+      "proizvodjac": "ivancic",
+      "kolicina": 3,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 450,
+      "tip": "sadnica",
+      "dani": 10,
+      "__v": 0
+    }
+  ],
+  "poljoprivrednik": "zika",
+  "preduzece": "ivancic",
+  "status": "Isporucena",
+  "num": 1,
+  "datum": "9/7/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0643aeeba2840e98643abf"
+  },
+  "proizvodi": [
+    {
+      "_id": {
+        "$oid": "5f05fa1aeba2840e98643aac"
+      },
+      "naziv": "Stedstvo protiv korova",
+      "proizvodjac": "pkb",
+      "kolicina": 10,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 120,
+      "tip": "preparat",
+      "dani": 1,
+      "__v": 0
+    }
+  ],
+  "poljoprivrednik": "zika",
+  "preduzece": "pkb",
+  "status": "Isporucena",
+  "num": 2,
+  "datum": "9/7/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0643eeeba2840e98643ac1"
+  },
+  "proizvodi": [
+    {
+      "_id": {
+        "$oid": "5f05f99eeba2840e98643aa8"
+      },
+      "naziv": "Extract formula +",
+      "proizvodjac": "agro",
+      "kolicina": 5,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 500,
+      "tip": "preparat",
+      "dani": 5,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5f05f982eba2840e98643aa7"
+      },
+      "naziv": "Jabuka",
+      "proizvodjac": "agro",
+      "kolicina": 6,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 50,
+      "tip": "sadnica",
+      "dani": 10,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5f05f9d3eba2840e98643aaa"
+      },
+      "naziv": "Grass Eliminator",
+      "proizvodjac": "agro",
+      "kolicina": 5,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 300,
+      "tip": "preparat",
+      "dani": 2,
+      "__v": 0
+    }
+  ],
+  "poljoprivrednik": "zika",
+  "preduzece": "agro",
+  "status": "Isporucena",
+  "num": 3,
+  "datum": "9/7/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dc1cfcdb5408f0a95935"
+  },
+  "proizvodi": [
+    {
+      "_id": {
+        "$oid": "5f05f96eeba2840e98643aa6"
+      },
+      "naziv": "Breskva",
+      "proizvodjac": "agro",
+      "kolicina": 5,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 100,
+      "tip": "sadnica",
+      "dani": 8,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5f05f99eeba2840e98643aa8"
+      },
+      "naziv": "Extract formula +",
+      "proizvodjac": "agro",
+      "kolicina": 3,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 500,
+      "tip": "preparat",
+      "dani": 5,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5f05f9d3eba2840e98643aaa"
+      },
+      "naziv": "Grass Eliminator",
+      "proizvodjac": "agro",
+      "kolicina": 5,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 300,
+      "tip": "preparat",
+      "dani": 2,
+      "__v": 0
+    }
+  ],
+  "poljoprivrednik": "igor",
+  "preduzece": "agro",
+  "status": "Isporucena",
+  "num": 4,
+  "datum": "9/7/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dc7afcdb5408f0a95939"
+  },
+  "proizvodi": [
+    {
+      "_id": {
+        "$oid": "5f05fa1aeba2840e98643aac"
+      },
+      "naziv": "Stedstvo protiv korova",
+      "proizvodjac": "pkb",
+      "kolicina": 10,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 120,
+      "tip": "preparat",
+      "dani": 1,
+      "__v": 0
+    }
+  ],
+  "poljoprivrednik": "igor",
+  "preduzece": "pkb",
+  "status": "Isporucena",
+  "num": 5,
+  "datum": "15/6/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dc8ffcdb5408f0a9593b"
+  },
+  "proizvodi": [
+    {
+      "_id": {
+        "$oid": "5f05fa93eba2840e98643ab1"
+      },
+      "naziv": "Malina",
+      "proizvodjac": "ivancic",
+      "kolicina": 3,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 400,
+      "tip": "sadnica",
+      "dani": 14,
+      "__v": 0
+    }
+  ],
+  "poljoprivrednik": "igor",
+  "preduzece": "ivancic",
+  "status": "Isporucena",
+  "num": 6,
+  "datum": "15/6/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dcbdfcdb5408f0a9593d"
+  },
+  "proizvodi": [
+    {
+      "_id": {
+        "$oid": "5f05faa8eba2840e98643ab2"
+      },
+      "naziv": "AgroMax Blast",
+      "proizvodjac": "ivancic",
+      "kolicina": 5,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 900,
+      "tip": "preparat",
+      "dani": 10,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5f05fabdeba2840e98643ab3"
+      },
+      "naziv": "Growth factor",
+      "proizvodjac": "ivancic",
+      "kolicina": 3,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 400,
+      "tip": "preparat",
+      "dani": 4,
+      "__v": 0
+    }
+  ],
+  "poljoprivrednik": "igor",
+  "preduzece": "ivancic",
+  "status": "Isporucena",
+  "num": 7,
+  "datum": "15/6/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dce9fcdb5408f0a95940"
+  },
+  "proizvodi": [
+    {
+      "_id": {
+        "$oid": "5f05fa58eba2840e98643aaf"
+      },
+      "naziv": "Sljiva",
+      "proizvodjac": "pkb",
+      "kolicina": 5,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 90,
+      "tip": "sadnica",
+      "dani": 9,
+      "__v": 0
+    }
+  ],
+  "poljoprivrednik": "igor",
+  "preduzece": "pkb",
+  "status": "Isporucena",
+  "num": 8,
+  "datum": "21/6/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd24fcdb5408f0a95942"
+  },
+  "proizvodi": [
+    {
+      "_id": {
+        "$oid": "5f05fa93eba2840e98643ab1"
+      },
+      "naziv": "Malina",
+      "proizvodjac": "ivancic",
+      "kolicina": 2,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 400,
+      "tip": "sadnica",
+      "dani": 14,
+      "__v": 0
+    }
+  ],
+  "poljoprivrednik": "zika",
+  "preduzece": "ivancic",
+  "status": "Isporucena",
+  "num": 9,
+  "datum": "2/7/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06ddbafcdb5408f0a95954"
+  },
+  "proizvodi": [
+    {
+      "_id": {
+        "$oid": "5f05fabdeba2840e98643ab3"
+      },
+      "naziv": "Growth factor",
+      "proizvodjac": "ivancic",
+      "kolicina": 2,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 400,
+      "tip": "preparat",
+      "dani": 4,
+      "__v": 0
+    }
+  ],
+  "poljoprivrednik": "igor",
+  "preduzece": "ivancic",
+  "status": "Na Cekanju",
+  "num": 10,
+  "datum": "9/7/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06ddeafcdb5408f0a95958"
+  },
+  "proizvodi": [
+    {
+      "_id": {
+        "$oid": "5f05fa93eba2840e98643ab1"
+      },
+      "naziv": "Malina",
+      "proizvodjac": "ivancic",
+      "kolicina": 3,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 400,
+      "tip": "sadnica",
+      "dani": 14,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5f05fa79eba2840e98643ab0"
+      },
+      "naziv": "Breskva",
+      "proizvodjac": "ivancic",
+      "kolicina": 5,
+      "prosek": 0,
+      "uk_ocena": 0,
+      "br_ocena": 0,
+      "cena": 120,
+      "tip": "sadnica",
+      "dani": 12,
+      "__v": 0
+    }
+  ],
+  "poljoprivrednik": "zika",
+  "preduzece": "ivancic",
+  "status": "Na Cekanju",
+  "num": 12,
+  "datum": "9/7/2020",
+  "__v": 0
+}]

@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "5eef74343a605c04d000236c"
+  },
+  "ime": "Admin",
+  "prezime": "Admin",
+  "telefon": "",
+  "korisnicko_ime": "admin",
+  "lozinka": "Admin123",
+  "email": "admin@mail.com",
+  "datum": "",
+  "mesto": "",
+  "approved": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05e56deba2840e98643a9e"
+  },
+  "ime": "Igor",
+  "prezime": "Milovanovic",
+  "telefon": "0621205758",
+  "korisnicko_ime": "igor",
+  "lozinka": "Igor123",
+  "email": "igor@mail.com",
+  "datum": "13/09/1996",
+  "mesto": "Beograd",
+  "approved": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05e595eba2840e98643a9f"
+  },
+  "ime": "Zika",
+  "prezime": "Zikic",
+  "telefon": "0612345678",
+  "korisnicko_ime": "zika",
+  "lozinka": "Zika123",
+  "email": "zika@mail.com",
+  "datum": "15/05/1997",
+  "mesto": "Valjevo",
+  "approved": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05e645eba2840e98643aa3"
+  },
+  "ime": "Lazar",
+  "prezime": "Lazic",
+  "telefon": "060555333",
+  "korisnicko_ime": "laza",
+  "lozinka": "Laza123",
+  "email": "laza@mail.com",
+  "datum": "11/12/2000",
+  "mesto": "Kraljevo",
+  "approved": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05e6c4eba2840e98643aa5"
+  },
+  "ime": "Mika",
+  "prezime": "Mikic",
+  "telefon": "0698765432",
+  "korisnicko_ime": "mika",
+  "lozinka": "Mika123",
+  "email": "mika@mail.com",
+  "datum": "20/04/1995",
+  "mesto": "Zrenjanin",
+  "approved": 0,
+  "__v": 0
+}]

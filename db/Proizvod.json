@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "5f05f96eeba2840e98643aa6"
+  },
+  "naziv": "Breskva",
+  "proizvodjac": "agro",
+  "kolicina": 45,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 100,
+  "tip": "sadnica",
+  "dani": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05f982eba2840e98643aa7"
+  },
+  "naziv": "Jabuka",
+  "proizvodjac": "agro",
+  "kolicina": 74,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 50,
+  "tip": "sadnica",
+  "dani": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05f99eeba2840e98643aa8"
+  },
+  "naziv": "Extract formula +",
+  "proizvodjac": "agro",
+  "kolicina": 12,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 500,
+  "tip": "preparat",
+  "dani": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05f9b2eba2840e98643aa9"
+  },
+  "naziv": "Lubenica",
+  "proizvodjac": "agro",
+  "kolicina": 100,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 250,
+  "tip": "sadnica",
+  "dani": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05f9d3eba2840e98643aaa"
+  },
+  "naziv": "Grass Eliminator",
+  "proizvodjac": "agro",
+  "kolicina": 40,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 300,
+  "tip": "preparat",
+  "dani": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05fa02eba2840e98643aab"
+  },
+  "naziv": "Malina",
+  "proizvodjac": "pkb",
+  "kolicina": 100,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 200,
+  "tip": "sadnica",
+  "dani": 15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05fa1aeba2840e98643aac"
+  },
+  "naziv": "Stedstvo protiv korova",
+  "proizvodjac": "pkb",
+  "kolicina": 40,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 120,
+  "tip": "preparat",
+  "dani": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05fa31eba2840e98643aad"
+  },
+  "naziv": "BIO formula +",
+  "proizvodjac": "pkb",
+  "kolicina": 20,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 350,
+  "tip": "preparat",
+  "dani": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05fa48eba2840e98643aae"
+  },
+  "naziv": "Psenica",
+  "proizvodjac": "pkb",
+  "kolicina": 40,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 30,
+  "tip": "sadnica",
+  "dani": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05fa58eba2840e98643aaf"
+  },
+  "naziv": "Sljiva",
+  "proizvodjac": "pkb",
+  "kolicina": 85,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 90,
+  "tip": "sadnica",
+  "dani": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05fa79eba2840e98643ab0"
+  },
+  "naziv": "Breskva",
+  "proizvodjac": "ivancic",
+  "kolicina": 90,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 120,
+  "tip": "sadnica",
+  "dani": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05fa93eba2840e98643ab1"
+  },
+  "naziv": "Malina",
+  "proizvodjac": "ivancic",
+  "kolicina": 37,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 400,
+  "tip": "sadnica",
+  "dani": 14,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05faa8eba2840e98643ab2"
+  },
+  "naziv": "AgroMax Blast",
+  "proizvodjac": "ivancic",
+  "kolicina": 10,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 900,
+  "tip": "preparat",
+  "dani": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05fabdeba2840e98643ab3"
+  },
+  "naziv": "Growth factor",
+  "proizvodjac": "ivancic",
+  "kolicina": 15,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 400,
+  "tip": "preparat",
+  "dani": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f05fad2eba2840e98643ab4"
+  },
+  "naziv": "Borovnica",
+  "proizvodjac": "ivancic",
+  "kolicina": 37,
+  "prosek": 0,
+  "uk_ocena": 0,
+  "br_ocena": 0,
+  "cena": 450,
+  "tip": "sadnica",
+  "dani": 10,
+  "__v": 0
+}]

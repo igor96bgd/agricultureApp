@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "5f06dd53fcdb5408f0a95944"
+  },
+  "naziv": "Breskva",
+  "proizvodjac": "ivancic",
+  "kolicina": 5,
+  "poljoprivrednik": "zika",
+  "tip": "sadnica",
+  "dani": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd53fcdb5408f0a95945"
+  },
+  "naziv": "Malina",
+  "proizvodjac": "ivancic",
+  "kolicina": 7,
+  "poljoprivrednik": "zika",
+  "tip": "sadnica",
+  "dani": 14,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd53fcdb5408f0a95946"
+  },
+  "naziv": "Borovnica",
+  "proizvodjac": "ivancic",
+  "kolicina": 3,
+  "poljoprivrednik": "zika",
+  "tip": "sadnica",
+  "dani": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd54fcdb5408f0a95947"
+  },
+  "naziv": "Malina",
+  "proizvodjac": "ivancic",
+  "kolicina": 2,
+  "poljoprivrednik": "igor",
+  "tip": "sadnica",
+  "dani": 14,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd56fcdb5408f0a95948"
+  },
+  "naziv": "AgroMax Blast",
+  "proizvodjac": "ivancic",
+  "kolicina": 3,
+  "poljoprivrednik": "igor",
+  "tip": "preparat",
+  "dani": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd56fcdb5408f0a95949"
+  },
+  "naziv": "Growth factor",
+  "proizvodjac": "ivancic",
+  "kolicina": 3,
+  "poljoprivrednik": "igor",
+  "tip": "preparat",
+  "dani": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd63fcdb5408f0a9594b"
+  },
+  "naziv": "Stedstvo protiv korova",
+  "proizvodjac": "pkb",
+  "kolicina": 10,
+  "poljoprivrednik": "zika",
+  "tip": "preparat",
+  "dani": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd64fcdb5408f0a9594c"
+  },
+  "naziv": "Stedstvo protiv korova",
+  "proizvodjac": "pkb",
+  "kolicina": 9,
+  "poljoprivrednik": "igor",
+  "tip": "preparat",
+  "dani": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd66fcdb5408f0a9594d"
+  },
+  "naziv": "Sljiva",
+  "proizvodjac": "pkb",
+  "kolicina": 4,
+  "poljoprivrednik": "igor",
+  "tip": "sadnica",
+  "dani": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd75fcdb5408f0a9594e"
+  },
+  "naziv": "Extract formula +",
+  "proizvodjac": "agro",
+  "kolicina": 5,
+  "poljoprivrednik": "zika",
+  "tip": "preparat",
+  "dani": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd75fcdb5408f0a9594f"
+  },
+  "naziv": "Jabuka",
+  "proizvodjac": "agro",
+  "kolicina": 6,
+  "poljoprivrednik": "zika",
+  "tip": "sadnica",
+  "dani": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd75fcdb5408f0a95950"
+  },
+  "naziv": "Grass Eliminator",
+  "proizvodjac": "agro",
+  "kolicina": 5,
+  "poljoprivrednik": "zika",
+  "tip": "preparat",
+  "dani": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd76fcdb5408f0a95951"
+  },
+  "naziv": "Breskva",
+  "proizvodjac": "agro",
+  "kolicina": 3,
+  "poljoprivrednik": "igor",
+  "tip": "sadnica",
+  "dani": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd76fcdb5408f0a95952"
+  },
+  "naziv": "Extract formula +",
+  "proizvodjac": "agro",
+  "kolicina": 3,
+  "poljoprivrednik": "igor",
+  "tip": "preparat",
+  "dani": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06dd76fcdb5408f0a95953"
+  },
+  "naziv": "Grass Eliminator",
+  "proizvodjac": "agro",
+  "kolicina": 4,
+  "poljoprivrednik": "igor",
+  "tip": "preparat",
+  "dani": 2,
+  "__v": 0
+}]
