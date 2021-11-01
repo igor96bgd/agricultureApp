@@ -1,0 +1,23 @@
+.firstRow{
+    background-color: black;
+    text-align: center;
+}
+.removePadding{
+    padding: 0;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: yellow;
+    font-size: 25px;
+    font-weight: bold;
+}
+body{
+    background-color: lightgreen;
+}
+
+hr{
+    border-color: black;
+    border-width: 5px;
+}
